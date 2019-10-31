@@ -2,7 +2,7 @@ name: "Run Every Day At 20:02"
 
 on:
   schedule:
-  - cron: '02 20 * * *'
+  - cron: '04 23 * * *'
 
 jobs:
 
