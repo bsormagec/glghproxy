@@ -1,8 +1,8 @@
-name: Docker Image Build PUSH
+name: "Run Every Day At 20:02"
 
 on:
   schedule:
-  - cron: '0 20 * * *'
+  - cron: '02 20 * * *'
 
 jobs:
 
